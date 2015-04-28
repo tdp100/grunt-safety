@@ -1,7 +1,7 @@
 {
     "name": "grunt-safety",
     "description": "safety tool",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "homepage": "https://github.com/tdp100/grunt-safety",
     "author": {
         "name": "tangdeping",
